@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
-- 💬 Ask me about **django etc**
-
 - 📫 How to reach me **meghdeepchudasma71938@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
