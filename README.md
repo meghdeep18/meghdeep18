@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Meghdeep Chudasama</h1>
+<h1 >Hey there👋,friend </h1>
+ <h5> I'm Meghdeepsinh Chudasama</h5>
 <h5">A passionate fullstack developer from India</h3>
 
 - 🌱I’m currently learning **DSA**
