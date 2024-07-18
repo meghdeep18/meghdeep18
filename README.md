@@ -11,6 +11,8 @@
   * <a href="https://meghdeep-portfolio.vercel.app/#">Portfolio<a/>
   * <a href="https://meghdeep-dev.000webhostapp.com/">Hotelier<a/>
   * <a href="https://funweb03.000webhostapp.com/">Restoran<a/>
+
+  <h1>Don’t comment bad code – rewrite it</h1>
   
 
 
