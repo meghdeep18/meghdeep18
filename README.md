@@ -6,7 +6,7 @@
 
 - 👨‍💻All of my projects are available at [github.com](github.com)
 - 
-  📫How to reach me **meghdeepchudasma71938@gmail.com**
+  📫How to reach me **meghdeepchudasma03@gmail.com**
 -   Recently deployed projects
   * <a href="https://meghdeep-portfolio.vercel.app/#">Portfolio-Website <a/>
   * <a href="https://hotelierrrr.vercel.app//">Hotelier<a/>
