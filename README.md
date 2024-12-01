@@ -2,7 +2,7 @@
  <h5> I'm Meghdeepsinh Chudasama</h5>
 <h5>A passionate fullstack developer from India</h5>
 
-- 🌱I’m currently learning **D.S.A**
+- 🌱I’m currently learning **Astro**
 
 - 👨‍💻All of my projects are available at [github.com](github.com)
 - 
