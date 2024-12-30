@@ -2,7 +2,7 @@
  <h5> I'm Meghdeepsinh Chudasama</h5>
 <h5>A passionate fullstack developer from India</h5>
 
-- 🌱I’m currently learning **React**
+- 🌱I’m currently learning **DSA**
 
 - 👨‍💻All of my projects are available at [github.com](github.com)
 - 
