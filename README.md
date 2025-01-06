@@ -1,6 +1,6 @@
 <h1 >Hey there👋,friend </h1>
  <h5> I'm Meghdeepsinh Chudasama</h5>
-<h5>A passionate fullstack developer from India</h5>
+<h5> Fullstack developer from India</h5>
 
 - 🌱I’m currently learning **DSA**
 
