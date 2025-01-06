@@ -10,8 +10,7 @@
 -   Recently deployed projects
   * <a href="https://meghdeep-portfolio.vercel.app/#">Portfolio-Website <a/>
   * <a href="https://hotelierrrr.vercel.app//">Hotelier<a/>
- 
-
+  
   <h1>Don’t comment bad code – rewrite it</h1>
   
 
